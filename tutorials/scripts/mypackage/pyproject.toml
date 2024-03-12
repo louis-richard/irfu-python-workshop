@@ -1,0 +1,24 @@
+[project]
+name = "mypackage"
+version = "0.0.0"
+authors = [
+  { name="I AM GROOT!!", email="groot@guardians.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/louis-richard/irfu-python-workshop"
+
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel==0.38.1",
+]
+build-backend = "setuptools.build_meta"
