@@ -47,7 +47,6 @@ repos:
       - id: pylint
         args:
           - --disable
-          - import-error
           - missing-module-docstring
           - --output-format
           - colorized
