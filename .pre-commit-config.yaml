@@ -48,6 +48,7 @@ repos:
         args:
           - --disable
           - import-error
+          - missing-module-docstring
           - --output-format
           - colorized
 
