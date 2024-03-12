@@ -46,8 +46,6 @@ repos:
     hooks:
       - id: pylint
         args:
-          - --rcfile
-          - pyproject.toml
           - --disable
           - import-error
           - --output-format
