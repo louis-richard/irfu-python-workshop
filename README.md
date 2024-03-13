@@ -5,7 +5,7 @@ You will find the Jupyter Notebooks of the tutorials for the workshop [here](./t
 
 
 ## Topics covered:
-### Quickstart (Dave)
+### [Quickstart](./tutorials/notebooks/1a-quickstart.ipynb) (Dave)
 Quick (re-)introduction to Python language:\
     - Packages\
     - Dictionnaries, lists, tuples\
@@ -14,13 +14,14 @@ Quick (re-)introduction to Python language:\
     - maps and filters\
     - exceptions
 
-### Best practices (Louis)
+### [Best practices](./tutorials/notebooks/1b-best_practices.ipynb) (Louis)
 Introduction to best practices to keep your code nice and readable:\
     - PEP 8 - the Style Guide for Python Code\
     - docstrings\
     - linters\
     - code style tools: black, isort\
-    - Packaging
+    - Packaging\
+    - Virtual environments
 
 ### Python for data analysis (Dave)
 Introduction to basic scientific computing and plotting tools:\
@@ -28,7 +29,7 @@ Introduction to basic scientific computing and plotting tools:\
     - scipy: signal processing, fitting, statistics\
     - matplotlib: figures, axes, line plots, contour plots
 
-### CDF files with Python (Louis)
+### [CDF files with Python](./tutorials/notebooks/1d-cdf.ipynb) (Louis)
 Introducing to CDF files, and Python I/O CDF tools:\
     - Structure of CDF files and ISTP\
     - Reading CDF files with pycdfpp
