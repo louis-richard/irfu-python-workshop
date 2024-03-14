@@ -17,12 +17,13 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.virtual_documents
 
 # Environments
 workshop*
 
 # Jupyter Notebook
-.ipynb_checkpoints*
+.ipynb_checkpoints
 
 
 # PyCharm
