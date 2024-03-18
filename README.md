@@ -43,9 +43,10 @@ Introduction to data structures for space plasma analysis:
 ### Python tools for space physics analysis (Louis)
 Introduction to PyRFU:\
     - Objective\
-    - Quick demonstration\
+    - Quick demonstration
 
 ### Geopack (Vanina)
-
-
+Introduction to Geopack:\
+    - The Geopack model\
+    - The Tsyganenko models
 
