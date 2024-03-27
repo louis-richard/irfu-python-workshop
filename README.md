@@ -23,7 +23,7 @@ Introduction to best practices to keep your code nice and readable:\
     - Packaging\
     - Virtual environments
 
-### Python for data analysis (Dave)
+### [Python for data analysis](./tutorials/notebooks/1c-intro_data_analysis.ipynb) (Dave)
 Introduction to basic scientific computing and plotting tools:\
     - numpy: arrays, array operations, and times\
     - scipy: signal processing, fitting, statistics\
@@ -34,18 +34,18 @@ Introducing to CDF files, and Python I/O CDF tools:\
     - Structure of CDF files and ISTP\
     - Reading CDF files with pycdfpp
 
-### Time series, spectrogram, VDFs, & co. (Louis)
+### [Time series, spectrogram, VDFs, & co.](./tutorials/notebooks/2a-xarray_data_structures.ipynb) (Louis)
 Introduction to data structures for space plasma analysis:
     - The xarray package\
     - DataArrays for time series and spectrograms.\
     - Datasets for velocity distribution functions.
 
-### Python tools for space physics analysis (Louis)
+### [Python tools for space physics analysis](./tutorials/notebooks/2b-pyrfu-example.ipynb) (Louis)
 Introduction to PyRFU:\
     - Objective\
     - Quick demonstration
 
-### Geopack (Vanina)
+### [Geopack](./tutorials/notebooks/2c-geopack.ipynb) (Vanina)
 Introduction to Geopack:\
     - The Geopack model\
     - The Tsyganenko models
